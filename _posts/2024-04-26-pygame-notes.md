@@ -4,7 +4,7 @@ layout: single
 title: Python Game - Notes
 typora-root-url: ../
 categories: Learning
-tags: Project  Game Python
+tags: Project Game Python
 toc: true
 
 ---
