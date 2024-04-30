@@ -1,3 +1,5 @@
+---
+
 layout: single
 title: Python Game - Plan 
 typora-root-url: ../
