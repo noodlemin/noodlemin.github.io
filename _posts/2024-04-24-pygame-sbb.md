@@ -3,8 +3,8 @@
 layout: single
 title: Pygame - Super Buster Bros (Pang)
 typora-root-url: ../
-categories: Learning
-tags: Project Game Python
+categories: Project
+tags: Game Python
 toc: true
 
 ---
